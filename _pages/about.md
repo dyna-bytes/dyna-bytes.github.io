@@ -9,12 +9,12 @@ sidebar:
     nav: "sidebar-category"
 author_profile: true
 header:
-    overlay_image: ../docs/assets/images/unsplash-image-1.jpg
+    overlay_image: ../images/unsplash-image-1.jpg
     overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-    caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-    actions:
-    - label: "More Info"
-        url: "https://unsplash.com"
+    # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+    # actions:
+    # - label: "More Info"
+    #     url: "https://unsplash.com"
 ---
 
 
