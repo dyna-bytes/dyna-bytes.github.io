@@ -279,11 +279,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # home
-  header:
-    overlay_image: ../images/nasa_space_shuttle_challenger.jpg
-    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-
   # _posts
   - scope:
       path: ""
@@ -300,6 +295,10 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "sidebar-category"
+    # home
+      header:
+        overlay_image: ../images/nasa_space_shuttle_challenger.jpg
+        overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   # _pages 
   - scope:
       path: "_pages"
