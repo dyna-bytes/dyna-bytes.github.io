@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "jetxxx"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/test_img.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Love Physics and Problem Solving."
   location         : # "Somewhere"
   email            :
@@ -113,7 +113,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/jihyuk-park-2a79a8280/"
     - label: "Twitter"
