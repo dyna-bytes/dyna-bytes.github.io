@@ -1,7 +1,7 @@
 ---
 title: "Math"
 layout: archive
-permalink: /math/
+permalink: /categories/math/
 author_profile: true  
 sidebar:
     nav: "sidebar-category" 
