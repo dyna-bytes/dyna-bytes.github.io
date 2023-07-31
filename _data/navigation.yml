@@ -10,15 +10,15 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "About"
-    url: "/about/"
-  # - title: "Category"
-  #   url: "/categories/"
+  # - title: "About"
+  #   url: "/about/"
+  - title: "Category"
+    url: "/categories/"
  
 sidebar-category:
   - title: "Category"
     children:
     - title: "Math"
-      url: "/math/"
+      url: "/categories/math/"
     - title: "Algorithm"
-      url: "/algo/"
+      url: "/categories/algo/"
